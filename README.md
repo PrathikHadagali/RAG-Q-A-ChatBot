@@ -38,10 +38,10 @@ GROQ_API_KEY=your_api_key_here
 - View document similarity results under the "Document Similarity Search" expander.
 
 ## Project Structure
-├── research_papers/       # Directory containing PDF research papers
-├── app.py                 # Main Streamlit application
-├── .env                   # Environment variables (not included in repo)
-├── README.md              # Project documentation
+- ├── research_papers/       # Directory containing PDF research papers
+- ├── app.py                 # Main Streamlit application
+- ├── .env                   # Environment variables (not included in repo)
+- ├── README.md              # Project documentation
 
 # Author
 Prathik M Hadagali - [GitHub Profile](https://github.com/PrathikHadagali/RAG-Q-A-ChatBot)
